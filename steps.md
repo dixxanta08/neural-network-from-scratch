@@ -1,9 +1,9 @@
-Hardcode a single neuron (3 inputs → 1 output)
-Add a bias term
-Move inputs and weights into vectors (lists/arrays)
-Compute the dot product using a loop ( and numpy step 03 b)
-Create a reusable Neuron class
-Test the neuron with multiple input samples
+STEP 01 : Hardcode a single neuron (3 inputs → 1 output)
+STEP 02 : Add a bias term
+STEP 03a : Move inputs and weights into vectors and dot product using list comprehension (lists/arrays)
+STEP 03b : Use Numpy and numpy dot function
+STEP 04a : Create a reusable Neuron class
+STEP 04b : Test the neuron with multiple input samples
 Implement activation functions (Step, Sigmoid, ReLU)
 Create a Layer class containing multiple neurons
 Perform forward propagation through one layer
