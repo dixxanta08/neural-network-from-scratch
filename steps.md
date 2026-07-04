@@ -10,9 +10,7 @@ STEP 07 : Replace loops with matrix multiplication (NumPy)
 STEP 08 : Process a batch of inputs at once
 STEP 09 : Create a NeuralNetwork class with multiple layers and Implement forward propagation through the entire network
 STEP 10 : Create a small dataset (e.g., AND, OR)
-Implement a loss function (Mean Squared Error)
-Calculate prediction error
-Adjust weights manually to observe the effect
+STEP 11 : Implement a loss function (Mean Squared Error) and calculate prediction error also adjust weights manually to observe the effect
 Implement numerical gradient estimation (finite differences)
 Learn partial derivatives and gradients
 Derive gradients for a single neuron
