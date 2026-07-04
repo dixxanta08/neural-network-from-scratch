@@ -4,7 +4,7 @@ STEP 03a : Move inputs and weights into vectors and dot product using list compr
 STEP 03b : Use Numpy and numpy dot function
 STEP 04a : Create a reusable Neuron class
 STEP 04b : Test the neuron with multiple input samples
-Implement activation functions (Step, Sigmoid, ReLU)
+Step 05 : Implement activation functions (Step, Sigmoid, ReLU)
 Create a Layer class containing multiple neurons
 Perform forward propagation through one layer
 Replace loops with matrix multiplication (NumPy)
