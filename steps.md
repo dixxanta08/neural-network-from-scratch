@@ -5,9 +5,8 @@ STEP 03b : Use Numpy and numpy dot function
 STEP 04a : Create a reusable Neuron class
 STEP 04b : Test the neuron with multiple input samples
 Step 05 : Implement activation functions (Step, Sigmoid, ReLU)
-Create a Layer class containing multiple neurons
-Perform forward propagation through one layer
-Replace loops with matrix multiplication (NumPy)
+STEP 06 : Create a Layer class containing multiple neurons and perform forward propagation through one layer
+STEP 07 : Replace loops with matrix multiplication (NumPy)
 Process a batch of inputs at once
 Create a NeuralNetwork class with multiple layers
 Implement forward propagation through the entire network
