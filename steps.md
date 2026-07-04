@@ -9,7 +9,7 @@ STEP 06 : Create a Layer class containing multiple neurons and perform forward p
 STEP 07 : Replace loops with matrix multiplication (NumPy)
 STEP 08 : Process a batch of inputs at once
 STEP 09 : Create a NeuralNetwork class with multiple layers and Implement forward propagation through the entire network
-Create a small dataset (e.g., AND, OR)
+STEP 10 : Create a small dataset (e.g., AND, OR)
 Implement a loss function (Mean Squared Error)
 Calculate prediction error
 Adjust weights manually to observe the effect
