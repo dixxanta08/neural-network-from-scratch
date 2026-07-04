@@ -10,6 +10,8 @@ class Layer:
         weight_matrix = np.stack(([neuron.weights for neuron in self.neurons]), axis=1)
         bias_matrix = np.array([neuron.bias for neuron in self.neurons])
         
+        print("input shape",inputs.shape)
+        print("weight_matrix shape:",weight_matrix.shape)
         outputs = np.matmul(inputs,weight_matrix)+bias_matrix
 
         if self.activation:

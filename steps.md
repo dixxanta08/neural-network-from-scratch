@@ -7,9 +7,8 @@ STEP 04b : Test the neuron with multiple input samples
 Step 05 : Implement activation functions (Step, Sigmoid, ReLU)
 STEP 06 : Create a Layer class containing multiple neurons and perform forward propagation through one layer
 STEP 07 : Replace loops with matrix multiplication (NumPy)
-STEP 08: Process a batch of inputs at once
-Create a NeuralNetwork class with multiple layers
-Implement forward propagation through the entire network
+STEP 08 : Process a batch of inputs at once
+STEP 09 : Create a NeuralNetwork class with multiple layers and Implement forward propagation through the entire network
 Create a small dataset (e.g., AND, OR)
 Implement a loss function (Mean Squared Error)
 Calculate prediction error
