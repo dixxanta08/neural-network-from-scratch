@@ -14,8 +14,7 @@ STEP 11 : Implement a loss function (Mean Squared Error) and calculate predictio
 STEP 12 : Implement numerical gradient estimation (finite differences). Next, Learn partial derivatives and gradients
 STEP 13 : Derive gradients for a single neuron and Implement gradient descent
 STEP 14 : Update weights automatically and Train a single neuron until the loss decreases
-Implement backpropagation for one layer
-Extend backpropagation to multiple layers
+STEP 15: Implement backpropagation for one layer and Extend backpropagation to multiple layers
 Train on the XOR dataset (observe failure with one layer)
 Add a hidden layer
 Train until XOR is solved
