@@ -14,10 +14,8 @@ STEP 11 : Implement a loss function (Mean Squared Error) and calculate predictio
 STEP 12 : Implement numerical gradient estimation (finite differences). Next, Learn partial derivatives and gradients
 STEP 13 : Derive gradients for a single neuron and Implement gradient descent
 STEP 14 : Update weights automatically and Train a single neuron until the loss decreases
-STEP 15: Implement backpropagation for one layer and Extend backpropagation to multiple layers
-Train on the XOR dataset (observe failure with one layer)
-Add a hidden layer
-Train until XOR is solved
+STEP 15 : Implement backpropagation for one layer and Extend backpropagation to multiple layers
+STEP 16 : Train on the XOR dataset (observe failure with one layer) and Add a hidden layer and train until XOR is solved
 Refactor into reusable modules (Neuron, Layer, Network, Loss, Optimizer)
 Add configurable hyperparameters (learning rate, epochs, batch size)
 Add training metrics and loss visualization
