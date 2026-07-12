@@ -17,7 +17,7 @@ STEP 14 : Update weights automatically and Train a single neuron until the loss 
 STEP 15 : Implement backpropagation for one layer and Extend backpropagation to multiple layers
 STEP 16 : Train on the XOR dataset (observe failure with one layer) and Add a hidden layer and train until XOR is solved
 STEP 17: Refactor into reusable modules (Neuron, Layer, Network, Loss) and Add configurable hyperparameters (learning rate, epochs) and add training metrics and loss visualization
-Save and load model weights
+STEP 18: Save and load model weights
 Implement mini-batch gradient descent
 Add different activation functions (Tanh, Leaky ReLU)
 Implement Softmax output
