@@ -16,9 +16,7 @@ STEP 13 : Derive gradients for a single neuron and Implement gradient descent
 STEP 14 : Update weights automatically and Train a single neuron until the loss decreases
 STEP 15 : Implement backpropagation for one layer and Extend backpropagation to multiple layers
 STEP 16 : Train on the XOR dataset (observe failure with one layer) and Add a hidden layer and train until XOR is solved
-Refactor into reusable modules (Neuron, Layer, Network, Loss, Optimizer)
-Add configurable hyperparameters (learning rate, epochs, batch size)
-Add training metrics and loss visualization
+STEP 17: Refactor into reusable modules (Neuron, Layer, Network, Loss) and Add configurable hyperparameters (learning rate, epochs) and add training metrics and loss visualization
 Save and load model weights
 Implement mini-batch gradient descent
 Add different activation functions (Tanh, Leaky ReLU)
