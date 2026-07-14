@@ -21,8 +21,8 @@ STEP 18: Save and load model weights
 STEP 19: Implement mini-batch gradient descent
 STEP 20: Add different activation functions (Tanh, Leaky ReLU)
 STEP 21: Implement Softmax output and Implement Cross-Entropy Loss
-Train on a real dataset (e.g., Iris)
-Train on handwritten digits (MNIST)
+STEP 22: Train on a real dataset (e.g., Iris)
+STEP 23: Train on handwritten digits (MNIST)
 Add regularization (L2, Dropout)
 Implement different optimizers (Momentum, RMSProp, Adam)
 Build a small neural network framework from scratch
