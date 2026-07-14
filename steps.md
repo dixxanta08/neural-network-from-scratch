@@ -19,9 +19,8 @@ STEP 16 : Train on the XOR dataset (observe failure with one layer) and Add a hi
 STEP 17: Refactor into reusable modules (Neuron, Layer, Network, Loss) and Add configurable hyperparameters (learning rate, epochs) and add training metrics and loss visualization
 STEP 18: Save and load model weights
 STEP 19: Implement mini-batch gradient descent
-Add different activation functions (Tanh, Leaky ReLU)
-Implement Softmax output
-Implement Cross-Entropy Loss
+STEP 20: Add different activation functions (Tanh, Leaky ReLU)
+STEP 21: Implement Softmax output and Implement Cross-Entropy Loss
 Train on a real dataset (e.g., Iris)
 Train on handwritten digits (MNIST)
 Add regularization (L2, Dropout)
